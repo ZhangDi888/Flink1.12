@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78b3f956-6b23-49e8-9602-7892e87fc603" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\RepMaven" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pc0e92HFYGnCGAxtzi7Yr02zjG" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qdkj-foodie-dev" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qdkj.gmall.realtime.func.DimSink" />
+      <recent name="com.qdkj.gmall.realtime.func.TableProcessFunction" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qdkj.gmall.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\gmall-flink112-parent\gmall-realtime\src\main\java\com\qdkj\gmall\realtime\common" />
+      <recent name="D:\ideaworkspace\gmall-flink112-parent\gmall-realtime\src\main\java\com\qdkj\gmall\realtime\utils" />
+      <recent name="D:\ideaworkspace\gmall-flink112-parent\gmall-realtime\src\main\resources" />
+      <recent name="D:\ideaworkspace\gmall-flink112-parent\gmall-logger\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KeywordUtil">
+    <configuration name="BaseDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdkj.gmall.realtime.app.dwd.BaseDBApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdkj.gmall.realtime.app.dwd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeywordUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdkj.gmall.realtime.utils.KeywordUtil" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdkj.gmall.realtime.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWideApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdkj.gmall.realtime.app.dwm.OrderWideApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdkj.gmall.realtime.app.dwm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductStatsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdkj.gmall.realtime.app.dws.ProductStatsApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdkj.gmall.realtime.app.dws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvinceStatsSqlApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdkj.gmall.realtime.app.dws.ProvinceStatsSqlApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdkj.gmall.realtime.app.dws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qdkj.gmall.GmallLoggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KeywordUtil" />
+        <item itemvalue="Application.ProvinceStatsSqlApp" />
+        <item itemvalue="Application.OrderWideApp" />
+        <item itemvalue="Application.BaseDBApp" />
+        <item itemvalue="Application.ProductStatsApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b3f956-6b23-49e8-9602-7892e87fc603" name="Default Changelist" comment="" />
+      <created>1615467163502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615467163502</updated>
+      <workItem from="1615467164720" duration="2058000" />
+      <workItem from="1615989109857" duration="2816000" />
+      <workItem from="1616143279473" duration="606000" />
+      <workItem from="1616289980705" duration="4321000" />
+      <workItem from="1616378059721" duration="2000" />
+      <workItem from="1616460449554" duration="10154000" />
+      <workItem from="1616505346991" duration="4354000" />
+      <workItem from="1616549767566" duration="708000" />
+      <workItem from="1616587281966" duration="6433000" />
+      <workItem from="1616723448476" duration="7002000" />
+      <workItem from="1616810627841" duration="4028000" />
+      <workItem from="1616895651040" duration="21162000" />
+      <workItem from="1616979624168" duration="8096000" />
+      <workItem from="1617019012607" duration="7482000" />
+      <workItem from="1617064995040" duration="7674000" />
+      <workItem from="1617089367944" duration="4494000" />
+      <workItem from="1617101370975" duration="11998000" />
+      <workItem from="1617118571468" duration="926000" />
+      <workItem from="1617151703818" duration="5226000" />
+      <workItem from="1617169991502" duration="10144000" />
+      <workItem from="1617194883129" duration="4971000" />
+      <workItem from="1617240273254" duration="9106000" />
+      <workItem from="1617259469635" duration="7821000" />
+      <workItem from="1617324032104" duration="9939000" />
+      <workItem from="1617350589770" duration="5000" />
+      <workItem from="1617421050286" duration="2344000" />
+      <workItem from="1617499339527" duration="17308000" />
+      <workItem from="1617614502140" duration="10116000" />
+      <workItem from="1617696788535" duration="1798000" />
+      <workItem from="1617756059304" duration="9321000" />
+      <workItem from="1618100663789" duration="12111000" />
+      <workItem from="1618124060453" duration="10702000" />
+      <workItem from="1618147260552" duration="2471000" />
+      <workItem from="1618214666145" duration="7275000" />
+      <workItem from="1618294110035" duration="8320000" />
+      <workItem from="1619425098799" duration="12000" />
+      <workItem from="1619446170467" duration="109000" />
+      <workItem from="1619616050395" duration="1501000" />
+      <workItem from="1619617585704" duration="2986000" />
+      <workItem from="1619669935347" duration="145000" />
+      <workItem from="1619677266250" duration="1812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-realtime/src/main/java/com/qdkj/gmall/realtime/func/DimSink.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-realtime/src/main/java/com/qdkj/gmall/realtime/app/dwm/OrderWideApp.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-realtime/src/main/java/com/qdkj/gmall/realtime/func/DimAsyncFunction.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-realtime/src/main/java/com/qdkj/gmall/realtime/app/dwm/OrderWideApp.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
