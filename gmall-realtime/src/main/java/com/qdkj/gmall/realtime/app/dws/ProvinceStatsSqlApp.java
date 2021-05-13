@@ -23,7 +23,7 @@ public class ProvinceStatsSqlApp {
         StateBackend fsStateBackend = new FsStateBackend(
                 "hdfs://hadoop202:8020/gmall/flink/checkpoint/ProductStatsApp");
         env.setStateBackend(fsStateBackend);
-        System.setProperty("HADOOP_USER_NAME","atguigu");
+        System.setProperty("HADOOP_USER_NAME","zhangdi");
         */
         //创建表环境
         EnvironmentSettings setting = EnvironmentSettings

@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 自定义UDTF函数实现分词操作
  */
-@FunctionHint(output = @DataTypeHint("ROW<word STRING"))
+@FunctionHint(output = @DataTypeHint("ROW<word STRING>"))
 public class KeywordUDTF extends TableFunction<Row> {
 
     public void eval(String str) {
